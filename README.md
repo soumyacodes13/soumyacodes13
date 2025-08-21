@@ -56,10 +56,7 @@
 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyacodes13&show_icons=true&locale=en&layout=compact" alt="soumyacodes13" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyacodes13&show_icons=true&locale=en" alt="soumyacodes13" />
+  <img src="assets/outro.gif" alt="Outro GIF" />
 </p>
